@@ -1,0 +1,415 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazilian]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\usepackage{titlesec}
+
+\geometry{a4paper, margin=2.5cm}
+
+\titleformat{\section}
+  {\normalfont\Large\bfseries}{\thesection.}{1em}{}
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}{\thesubsection.}{1em}{}
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries}{\thesubsubsection.}{1em}{}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{Regulamento Interno de Crédito - Sicredi Celeiro}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\setlength{\parindent}{0cm}
+\setlength{\parskip}{0.5em}
+
+\begin{document}
+
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    {\Huge\bfseries REGULAMENTO INTERNO DE CRÉDITO\par}
+    \vspace{1.5cm}
+    {\Large SICREDI CELEIRO CENTRO OESTE\par}
+    \vspace{2cm}
+    {\large\today\par}
+    \vfill
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+\section{Composição dos comitês de crédito}
+
+As alçadas para aprovação de crédito, bem como a composição de cada nível hierárquico (considerando o comprometimento do associado/grupo econômico mais o valor da operação que está sendo solicitada) são:
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|p{5cm}|p{9cm}|}
+\hline
+\textbf{Comprometimento grupo econômico} & \textbf{Composição dos votos Fluid} \\
+\hline
+Até 20.000,00 & Comitê técnico (2 votos, podem ser dois analistas). \\
+\hline
+Entre 20.000,01 e 500.000,00 & Comitê técnico (analista e assessor/ coordenador/gerente de ciclo de crédito). \\
+\hline
+Entre 500.000,01 e 1.000.000,00 & Comitê técnico (analista e assessor/ coordenador/gerente de ciclo de crédito) e GRD. \\
+\hline
+Entre 1.000.000,01 e 1.999.999,99 & Comitê técnico (analista e assessor/coordenador/gerente de ciclo de crédito), GRD e diretor (Operações ou Executivo). \\
+\hline
+A partir de 2.000.000,00 & GRD e Diretoria (Operações e Executivo). *Proposta encaminhada com análise completa. \\
+\hline
+\end{tabular}
+\end{table}
+
+\subsection{Análise de Garantias}
+
+As análises de garantias deverão seguir as premissas abaixo:
+
+\subsubsection{Aplicação financeira e previdência privada (cessão de direitos creditórios)}
+
+\begin{itemize}
+\item \textbf{Aplicação financeira:} Serão aceitas como garantia, aplicações financeiras de renda fixa, sendo que o prazo da aplicação deverá ser igual ou maior que o vencimento final da operação de crédito, com cobertura mínima de 100\%.
+
+\item \textbf{Previdência privada:} Poderão ser aceitas conforme regras de cobertura definidas no manual do produto, onde deverá ser respeitado os percentuais e critérios de alavancagem.
+\end{itemize}
+
+\subsubsection{Imóvel rural (hipoteca ou alienação/simples guarda-chuva)}
+
+\begin{itemize}
+\item \textbf{Pequena propriedade rural:} É considerado pequena propriedade rural, o imóvel rural com área de até 4 (quatro) módulos fiscais, utilizado pela família para subsistência, cuja exploração extrativa seja agrícola, pecuária, vegetal ou agroindustrial.
+\end{itemize}
+
+Nesta situação, a UCC emitirá parecer desfavorável e encaminhará para aprovação das alçadas, inclusive da diretoria. A UCC deverá verificar se o proprietário do imóvel possui outros imóveis rurais ou que consiga comprovar (constar no cadastro) que a fonte de renda principal do associado não provenha da área dada em garantia, para resguardar a cooperativa em um possível caso de execução judicial e incluir essas informações como ponto de alerta para insumo do comitê aprovador.
+
+\begin{itemize}
+\item \textbf{Fração ideal:} Para operações com garantia de fração ideal em que a propriedade possuir outros donos, se faz necessário encaminhar as certidões de todos eles conforme checklist, do mesmo modo que deverão assinar como intervenientes garantidores. Ressaltamos que a Cooperativa aceita apenas fração ideal de imóveis rurais, não aceitando fração ideal de imóvel urbano.
+\end{itemize}
+
+\subsubsection{Imóvel misto (hipoteca ou alienação/simples guarda-chuva)}
+
+\begin{itemize}
+\item \textbf{Imóvel misto:} trata-se de imóvel destinado a exploração residencial e comercial. Para que esses imóveis possam ser aceitos como garantia, é necessário que possuam cobertura suficiente conforme manuais de garantia para a operação e que não sejam explorados (comércio próprio ou residência própria) pelo proprietário. Descaracteriza-se exploração pelo proprietário, quando ele apresentar contratos de aluguéis, preferencialmente com reconhecimento de firma, que confirmem a exploração por terceiros.
+\end{itemize}
+
+\subsubsection{Imóvel comercial (hipoteca ou alienação/simples guarda-chuva)}
+
+Trata-se de imóvel destinado a exploração comercial. Estes imóveis poderão ser aceitos desde que possuam cobertura suficiente para a operação, conforme manual de garantias. Quando for a sede da empresa, a UCC deverá evidenciar como ponto de alerta.
+
+\subsubsection{Imóvel residencial (alienação simples/guarda-chuva)}
+
+\begin{itemize}
+\item \textbf{Bem de família:} corresponde ao bem imóvel, urbano ou rural, de residência do casal ou da entidade familiar. Esse conceito abrange também as entidades formadas por apenas uma pessoa. Quando o associado possuir mais de um bem imóvel, o conceito de bem de família, por lei, recairá sobre aquele de menor valor, ou sobre aquele que estiver registrado no Cartório para este fim (situação pouco usual).
+\end{itemize}
+
+Trata-se de imóveis residenciais, que poderão ser aceitos como garantia de \textbf{alienação simples/guarda-chuva} desde que possuam cobertura suficiente para a operação e se comprovado que não se trata de bem de família. Para a descaracterização de bem de família, o cadastro deve estar atualizado com mais de um imóvel residencial, o associado deverá apresentar no mínimo, matrícula atualizada de dois imóveis residenciais (garantia + adicional), caso não seja apresentado as matrículas o processo será devolvido para a agência. Em situações que o imóvel urbano (construção) não estiver averbado na matrícula e for o único imóvel residencial do associado será considerado como bem de família.
+
+\subsubsection{Demais imóveis urbanos (hipoteca ou alienação simples/guarda-chuva)}
+
+Trata-se de imóveis urbanos não citados anteriormente, (exemplo: lotes e chácaras localizadas em perímetro urbano), que poderão ser aceitos conforme regras definidas no manual de garantias.
+
+\subsubsection{Veículos (alienação fiduciária de móveis)}
+
+\begin{itemize}
+\item Garantias de veículos pertencentes à locadora, deverá ser apresentado laudo de avaliação com foto, emitido por uma revenda/concessionária especializada.
+\item Financiamento de motocicleta deverá ser analisado e encaminhado para alçada do GRD e diretoria.
+\item Garantia de motocicleta deverá ser analisado e prosseguir para a alçada de valores.
+\item Para a validação de garantia de veículo será considerado o valor da Tabela Fipe.
+\item Para Financiamento - contratação e liberação de crédito com garantia de veículo, será considerado para cálculo do percentual de financiamento o valor preenchido no recibo do veículo, desde que não seja maior que o valor da Tabela Fipe.
+\item Garantia de ônibus será considerado o valor da tabela Fipe, caso não conste no Módulo de UA todas as informações correspondentes ao documento do veículo, deverá ser apresentado laudo de avaliação com foto, emitido por uma revenda/concessionária especializada.
+\item Para análise de garantia, referente ao documento do veículo passa a ser obrigatório o envio do exercício anterior ou do ano vigente – de acordo com calendário de pagamento do licenciamento emitido pelo Detran.
+\item Quando for um caminhão Globe-trotter, por este tipo de veículo possuir algumas particularidades, e para fins de avaliação caso não venha a informação no documento do veículo, será analisado da seguinte forma: A) - Avaliado com a Fipe de um documento comum; B) caso a agência tenha interesse em seguir, deve ser enviado um laudo de avaliação de uma revenda/concessionária especializada, com foto do veículo para comprovação.
+\item Para financiamento de semirreboque, deverá ser dado em garantia adicional o cavalo mecânico, ficando o contrato com a garantia do conjunto (CAVALO E SEMIRREBOQUE).
+\item Para financiamento ou garantia de mais de um cavalo, deverá ser realizado um contrato para cada cavalo, podendo constar no mesmo contrato o conjunto (CAVALO E SEMIRREBOQUE).
+\item Para financiamento e garantia de demais veículos, segue-se a mesma regra, ou seja, um veículo por contrato.
+\item Não será aceita garantia de veículo em operações de desconto e antecipação de recebíveis. Em situações de renovação do limite de desconto que possua garantia de veículo, a operação não será renovada, exceções deverão possuir de acordo da Diretoria.
+\item Idade máxima para financiamento de veículo: 
+  \begin{itemize}
+  \item \textit{motocicletas} – serão financiados veículos de até 2 anos (considerando o ano modelo); 
+  \item \textit{veículo de passeio e utilitários leves} – serão financiados veículos de até 5 anos (considerando o ano modelo); 
+  \item \textit{veículos pesados e demais veículos} – serão financiados veículos de até 5 anos (considerando o ano modelo).
+  \end{itemize}
+\item Idade máxima para garantia de veículo: 
+  \begin{itemize}
+  \item \textit{motocicletas} – serão aceitos em garantia principal veículos de até 2 anos (considerando o ano modelo); 
+  \item \textit{veículo de passeio e utilitários leves} – serão aceitos em garantia principal veículos de até 5 anos (considerando o ano modelo); 
+  \item \textit{veículos pesados e demais veículos} – serão aceitos em garantia principal veículos de até 5 anos (considerando o ano modelo). Os prazos acima poderão ser majorados desde que o bem seja ofertado apenas como garantia adicional.
+  \end{itemize}
+\end{itemize}
+
+\subsubsection{Máquinas e equipamentos (penhor ou alienação fiduciária)}
+
+\begin{itemize}
+\item Nos casos em que a única garantia concedida for \textbf{máquinas e equipamentos}, com parecer favorável da análise técnica, seguirá para a votação do comitê da Diretoria.
+\item Nos casos em que a única garantia concedida for \textbf{máquinas e equipamentos}, com parecer desfavorável da análise técnica, a operação será devolvida para a agência para incremento de garantia ou cancelamento da operação.
+\item Nos casos de financiamento de energia solar, a garantia dos equipamentos deverá garantir no mínimo 60\% da operação. É obrigatório a alienação das placas e inclusão de aval com respaldo patrimonial ou garantia real, exceto operações enquadradas em pequeno valor. Solicitação de financiamento de energia solar desenquadrada, ficará na alçada de valores competente.
+\item Para financiamento e garantia de mais de uma \textbf{máquina ou equipamentos}, segue-se um equipamento por contrato. Exceções deverão ser aprovadas pela Diretoria.
+\end{itemize}
+
+\subsubsection{Grãos, animais e safra (penhor)}
+
+\begin{itemize}
+\item Nos casos em que a única garantia concedida for \textbf{penhor de animais, grãos ou safra colhida}, com parecer favorável da análise técnica, seguirá para a votação do comitê diretoria.
+\item Nos casos em que a única garantia concedida for \textbf{penhor de animais, grãos ou safra colhida}, com parecer desfavorável da análise técnica, a operação será devolvida para a agência para incremento de garantia ou cancelamento da operação.
+\item Obs.: Considera-se garantia de grãos, o termo de depósito do produto colhido e armazenado em empresa terceira (armazéns, cerealistas, cooperativas ou silos), diversa do associado, a qual ficará como fiel depositário. Deverá ser apresentado certificado de depósito do bem.
+\end{itemize}
+
+\subsubsection{Aval/Fiança}
+
+\begin{itemize}
+\item Em casos nos quais a única garantia (isolada ou acumulativa) concedida for aval de terceiro sem respaldo patrimonial, se for operação de pequeno valor a UCC emitirá parecer favorável, caso não enquadre em pequeno valor, a UCC emitirá parecer desfavorável.
+\item No caso de aval do cônjuge onde apresente respaldo patrimonial, a UCC emitirá parecer favorável e colocará um ponto de alerta com relação à análise.
+\item Pessoa jurídica prestando garantia é obrigatório encaminhar o contrato social constando que a empresa poderá prestar garantia e certidão simplificada da junta comercial emitida em até 30 dias. Caso não conste no contrato social, deverá apresentar a declaração inequívoca ou realizar a alteração no contrato social, ambas devidamente registrado na junta comercial.
+\item Para crédito PJ, obrigatoriamente deve-se ter o aval dos sócios, sendo que a falta de patrimônio por parte dos sócios, nos casos de operação de pequeno valor, não será impedimento para concessão de crédito.
+\end{itemize}
+
+\section{Substituição e troca de garantia}
+
+\begin{itemize}
+\item Nos casos de troca de garantias, os processos sempre deverão ser submetidos para alçada do Gerente Regional de Desenvolvimento ou Diretoria.
+\item Nos casos de troca do veículo em garantia/financiado, o novo bem deve possuir o valor de mercado igual ou superior ao do veículo originalmente alienado, sendo necessária cobertura mínima correspondente a 110\% (conforme manual de constituição de garantias reais alienação fiduciária) do saldo devedor da operação (posição para liquidação na data da análise), limitado ao aceite de veículos de até 5 anos (ano modelo). Vale ressaltar que este procedimento não deve ser praticado de forma habitual, apenas para casos extremamente necessários.
+\end{itemize}
+
+Obs.: Troca de veículo poderá ser aprovado somente pelo GA e GRD.
+
+\begin{itemize}
+\item Para substituição/troca de garantia será cobrada tarifa conforme a tabela de tarifas vigente, exceto em situações que a demanda partir da Cooperativa.
+\end{itemize}
+
+\section{Anuências e aditivos de alterações de garantias}
+
+\begin{itemize}
+\item Anuências de grau subsequente Cooperativa e Banco Cooperativo Sicredi, não há necessidade de validação de garantia.
+\item Anuência de grau subsequente envolvendo outras instituições e cooperativas do sistema Sicredi, deve ser validada a garantia seguindo a alçada da diretoria.
+\item Anuências de alteração de garantias, deve seguir para validação de garantia seguindo a alçada da diretoria;
+\item Aditivo de troca de garantia no caso de BNDES e FCO, deverá ser autorizado pela diretoria independentemente do valor.
+\end{itemize}
+
+\section{Operações de pequeno valor Garantias}
+
+A cooperativa de crédito Sicredi Celeiro Centro Oeste considera operações de pequeno valor conforme as condições abaixo. Vale ressaltar que estes são os valores que o associado poderá tomar crédito sem garantia, mesmo que já possua valores em crédito. Por exemplo: Associado possui R\$ 1.000.000,00 em carteira de crédito com garantia de hipoteca de imóvel rural, risco baixíssimo e respaldo patrimonial. Vem até a cooperativa solicitando uma operação de R\$ 70.000,00. Neste caso podemos contratar a operação de R\$ 70.000,00 sem garantia, tendo em vista que ele já possui valor maior com garantia real.
+
+Caso o associado necessite de um crédito acima deste valor deve-se incluir garantia ou solicitar aprovação da alçada de valor competente.
+
+Para enquadramento nas regras abaixo devemos:
+
+\begin{itemize}
+\item Analisar o comprometimento total do associado/grupo econômico (o valor que possui tomado – posição de liquidação).
+\item Verificar o risco do proponente da operação.
+\item Analisar o respaldo patrimonial do proponente conforme descrito na terceira coluna da tabela abaixo, e quando for empresário individual o respaldo patrimonial pode ser da empresa ou do sócio;
+\item Atentar para as regras específicas do produto. Exceto para operações que tenham exigência de garantia na regra do produto.
+\end{itemize}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|p{2.5cm}|p{3cm}|p{5cm}|p{3cm}|}
+\hline
+\textbf{Faixa de Risco Padrão Atual} & \textbf{Comprometimento associado/grupo econômico total por CPF/CNPJ em operações sem garantia ou garantias desenquadradas} & \textbf{Respaldo Patrimonial (proponente)} & \textbf{Observação} \\
+\hline
+Baixíssimo & R\$ 70.000,00 & Situações em que o somatório das operações já tomadas mais o valor da operação solicitada exceda 50.000,00 o proponente terá que ter respaldo patrimonial. & Incluindo limites cheque especial/empresarial, cartão de crédito na soma de comprometimento. \\
+\hline
+Baixo 1 e baixo 2 & R\$ 60.000,00 & Situações em que o somatório das operações já tomadas mais o valor da operação solicitada exceda 40.000,00 o proponente terá que ter respaldo patrimonial. & Incluindo limites cheque especial/empresarial, cartão de crédito na soma de comprometimento. \\
+\hline
+Médio 1 e médio 2 & R\$ 50.000,00 & Situações em que o somatório das operações já tomadas mais o valor da operação solicitada exceda 30.000,00 o proponente terá que ter respaldo patrimonial. & Incluindo limites cheque especial/empresarial, cartão de crédito na soma de comprometimento. \\
+\hline
+Alto 1 e alto 2 & R\$ 1.000,00 & Sem a necessidade de comprovar o respaldo patrimonial. & Incluindo cheque e cartão. \\
+\hline
+\end{tabular}
+\end{table}
+
+Para descontos e antecipações de recebíveis, conforme manual do produto, os recebíveis descontados não são considerados como garantia, e sim objeto da operação.
+
+\begin{itemize}
+\item Empresário Individual, que não se enquadrar em operações de pequeno valor, deve apresentar aval de terceiro com respaldo patrimonial ou garantia real.
+\end{itemize}
+
+\section{Demais itens – Garantias}
+
+\begin{itemize}
+\item O prazo de validade da certidão da matrícula, para validação de garantia é de 30 dias. Excepcionalmente serão aceitas certidões de matrícula com prazo pontual de até 60 dias, para validação da garantia.
+
+\item Via de regra as operações com garantia de imóveis só serão liberadas após o registro e mediante certidão atualizada constando o registro.
+\end{itemize}
+
+Nos casos de excepcionalidade em que houver autorização da Gerente de Ciclo (apenas para operações de crédito rural e direcionados) e ou Diretor de Operações (demais casos) para liberação da operação somente com o protocolo, deverá ser apresentada junto com o protocolo a certidão da matrícula atualizada com a mesma data do protocolo.
+
+\begin{itemize}
+\item As análises de garantia guarda-chuva, troca de garantias e renegociações terão validade de 60 dias.
+
+\item Para validação de garantia o Recibo do CAR, bem como o demonstrativo correspondente – quando constar situação: pendente – deverá vir anexado na atividade o e-mail com a autorização da área de risco, bem como autorização da diretoria, GA e GRD, para seguimento da atividade - visto que o imóvel rural, poderá apresentar riscos e não ser aceito como garantia.
+
+\item Croqui da garantia é obrigatório - deverá ser cadastrado em nome do proprietário do imóvel.
+
+\item É obrigatório o georreferenciamento averbado na matrícula quando se tratar de garantia de alienação simples/guarda-chuva para imóveis que possuírem acima de 25 hectares;
+
+\item Para imóveis urbanos que possuam área averbada na matrícula é obrigatório apresentar o HABITE-SE.
+
+\item Operações de crédito imobiliário deverão obrigatoriamente contar com a garantia de alienação fiduciária do imóvel a ser adquirido/construído. Como é possível financiar até 90\% do valor do imóvel no SAC e até 80\% do valor do imóvel para PRICE, o percentual de cobertura do imóvel em garantia ficará em 125\% para PRICE e 111\% para SAC, estando assim de acordo com o Manual – Constituição de garantias reais: Alienação Fiduciária, não sendo necessário validar a garantia.
+
+\item Para validação de garantia de renegociação, a aprovação/reprovação ficará na alçada da diretoria.
+\end{itemize}
+
+\section{Garantias guarda-chuva}
+
+\begin{itemize}
+\item O prazo máximo para garantias alienação/hipoteca guarda-chuva pode chegar no máximo a 30 anos. Deverá ser solicitado reavaliação do bem a cada 10 anos, a contar da data de constituição junto a cooperativa, processo se faz necessário para mitigar possíveis risco referente a garantia constituída.
+
+\item Em casos de alienação fiduciária guarda-chuva é obrigatório reconhecimento de firma por verdadeiro (autenticidade) de todos os envolvidos no contrato (minuta).
+
+\item Prazo das guarda-chuvas – as majorações de prazo de guarda-chuva vigente, são computadas com base na data de registro da minuta/escritura, e não da data de validação encaminhada para majoração.
+
+\item Os limites de cheque especial e cartão de crédito devem obrigatoriamente ser incluídos na minuta/contrato de alienação/hipoteca guarda-chuva. Em situações que os limites não sejam inclusos na guarda-chuva, será necessário um parecer do GA e GRD, informando o porquê não serão inclusos os limites de cheque e cartão na minuta.
+
+\item Quando se tratar de garantia de alienação/hipoteca guarda-chuva independentemente do valor, deve seguir a alçada da diretoria.
+\end{itemize}
+
+\section{Operações BNDES e FCO}
+
+\begin{itemize}
+\item Operações BNDES/FCO para Investimentos: em virtude dos encaminhamentos de propostas de investimento nas linhas BNDES/FCO como única garantia o penhor/alienação do equipamento/máquina/veículo financiado, embora a garantia esteja de acordo com o manual, todas as operações devem possuir garantia de imóvel ou garantia de aval com respaldo patrimonial. Exceto as que se enquadrarem em pequeno valor.
+
+\item As operações de BNDES/FCO destinadas para capital de giro e CUSTEIO BNDES: deverão possuir garantia de imóvel, alienação fiduciária de veículos ou garantia de aval com respaldo patrimonial. Exceto as que se enquadrarem em pequeno valor.
+
+\item Nas operações de FCO e BNDES: Será aceita apenas garantia de aval, até operações de 500 mil (exposição total para os produtos) desde que possua alienação guarda-chuva nas demais operações e desde que aprovados previamente através de validação de garantia pelas alçadas competentes.
+\end{itemize}
+
+\section{Cálculo do respaldo patrimonial do proponente e do avalista}
+
+\subsection{Análise de crédito}
+
+Nas análises de operações de crédito, deverá ser avaliada a capacidade patrimonial do proponente e avalista.
+
+Comprometimento patrimonial: (Carteira Ativa SCR + Avalista+ Valor solicitado + CPR) x 100 / Patrimônio
+
+Com base no cálculo, classifica-se o percentual de comprometimento patrimonial:
+
+PF Urbano, PF Agro e PJ - Proponente e Avalista:
+\begin{itemize}
+\item Satisfatório: até 30\%
+\item Regular: entre 30,01\% até 50\%
+\item Insatisfatório: acima de 50\%.
+\end{itemize}
+
+Obs.: Na condição de proponente considera-se o patrimônio total do associado (exceto separação total de bens). Na condição de aval, considera-se de acordo com o regime de casamento.
+
+Para o cálculo do respaldo patrimonial do avalista casado (comunhão parcial, total ou união estável), será considerado somente 50\% de seu patrimônio, quando seu cônjuge não for aval. Caso o cônjuge avalize, será considerado 100\% do patrimônio do casal.
+
+Para o cálculo do respaldo patrimonial do avalista casado (separação total de bens), será considerado a totalidade do patrimônio de cada cônjuge.
+
+Para respaldo patrimonial de pessoa jurídica, quando considerado insatisfatório, o analista poderá emitir parecer favorável, quando os avalistas, sócios ou não, apresentarem capacidade patrimonial mínima "regular", seguindo os critérios de regime de casamento, ou que a garantia real apresentada esteja enquadrada nos percentuais de garantia. (parecer favorável com ressalvas).
+
+Para crédito imobiliário, não será considerado o respaldo patrimonial do proponente. Nesse sentido, passaremos a considerar apenas a capacidade de pagamento e a garantia, que deverá estar enquadradas dentro dos percentuais mínimos estabelecidos nos manuais/regulamento.
+
+Para realização do cálculo de respaldo patrimonial tanto do proponente, quanto do aval, serão consideradas para este cálculo a casa própria (bem de família), a pequena propriedade rural de onde retira seu sustento, semoventes, exceto participação societária. Em situações em que o associado possui o bem de família financiado, será considerado o valor do bem e o valor do financiamento para o cálculo.
+
+Quando o proponente possuir capacidade de pagamento e garantia compatível, o respaldo patrimonial do proponente não é impedimento para concessão do crédito, desta forma a UCC emitirá parecer favorável com ressalvas.
+
+No caso de operações em que o comprometimento do associado/grupo for de até R\$50.000,00 e o proponente não possuir respaldo patrimonial, porém possui garantias compatíveis conforme manual de análise de garantias e capacidade de pagamento, a UCC emitirá parecer favorável.
+
+\subsection{Rotativo}
+
+\begin{itemize}
+\item Para as operações de rotativo, será utilizada somente taxa pós fixada vinculada ao CDI, exceções a esta regra devem possuir autorização do Gerente Regional de Desenvolvimento responsável, Diretor de Operações e Diretor Executivo.
+\end{itemize}
+
+\subsection{Concessão de crédito com restritivos}
+
+\begin{itemize}
+\item \textbf{Restritivos na concessão de crédito:}
+\item \textbf{Restritivos na concessão de crédito:} Caso o associado/grupo tenha algum tipo de restritivo independentemente do valor e severidade, para concessões de crédito (aprovação de limites, gerar contrato ou liberação de crédito) é obrigatório apresentar o comprovante de regularização da restrição.
+
+\item Para as situações em caráter de exceção em que o associado/grupo possui restrição e não apresente o comprovante de regularização, a avaliação/emissão de parecer para restritivos de até R\$ 500,00 fica na alçada da Gerência de Ciclo de Crédito, Coordenação de Ciclo de Crédito ou Comitê de Técnico de Crédito, acima deste valor fica nas atribuições da Diretoria. Em solicitações de crédito, a agência deve enviar no parecer da proposta a justificativa do restritivo, informar que não apresenta comprovante e que deseja que seja solicitada autorização da alçada competente.
+
+\item Para situações em que o crédito já se encontra aprovado e o associado/grupo apresente restrição no momento de gerar o contrato ou liberação do crédito enviar à área de ciclo de crédito, para que seja solicitada a autorização da gerente/coordenador de ciclo/comitê Técnico de Crédito e/ou diretoria.
+\end{itemize}
+
+Obs. Situações que forem encaminhadas para UCC, onde não foram apresentadas comprovantes e não possua nenhuma justificativa atividade será devolvida para a agência.
+
+\subsection{Assinaturas}
+
+\begin{itemize}
+\item \textbf{Assinatura digital/eletrônica pelo Portal de Assinaturas:} Os contratos de crédito e demais documentos que são confeccionados no Sicredi só devem ser assinados digitalmente pelo Portal de Assinatura, em casos de exceção será aceito assinatura pela conta Gov. Demais tipos de assinatura não serão aceitos, como: documentos assinados pelo adobe ou outra ferramenta externa.
+\end{itemize}
+
+As assinaturas pelo portal precisam estar de acordo com o alinhamento abaixo:
+
+\begin{itemize}
+\item \textbf{Utilizar o celular que consta no cadastro para cada envolvido.} (Não aceitaremos o mesmo número de celular para pessoas diferentes, não aceitaremos números de celulares não cadastrados).
+
+\item \textbf{Utilizar código de verificação que deve ser os últimos 4 dígitos do CPF de quem irá assinar.} (deverá conter alguns cuidados, como por exemplo não informar ao assinante o CPF relacionado, bem como não incluir essa informação em nomenclaturas de documentos enviados, visto que será visualizado pelo assinante antes da etapa da assinatura, não trazendo segurança para o processo, não aceitaremos os 4 primeiros dígitos).
+
+\item \textbf{Todos os envolvidos na assinatura dos contratos de crédito deverão ter a descrição de sua participação qualificadas conforme consta no contrato.}
+
+\item \textbf{Assinatura Digital – Associado assinando com Certificado Digital:} Serão aceitos os documentos assinados com certificado, devido a segurança que o Certificado Digital retorna, no qual sua garantia de segurança é maior devido conter todos os dados da Pessoa/Empresa, e por passar por um processo de verificação de existência e autenticidade para que seja permitido a utilização. A descrição de sua participação deverá estar qualificada.
+
+\item \textbf{Assinatura fora da agência – reconhecimento de firma:} Os contratos quando não assinados na presença de um colaborador da agência, deverão vir com as assinaturas dos envolvidos na operação reconhecidas em cartório por verdadeiro.
+
+\item \textbf{Assinatura cônjuge em contrato de crédito:} Todos os contratos enviados para liberação assinados manualmente deverão vir acompanhados da cópia do documento de identificação do cônjuge (RG/CNH) para conferirmos a assinatura conforme o documento, caso a assinatura esteja divergente, deverá ser reconhecida firma em cartório por verdadeiro. Contratos assinados pelo portal de assinaturas, seguiremos o alinhamento atual: conferência 4 últimos dígitos do CPF e número de celular utilizado para o SMS (conforme cadastro).
+\end{itemize}
+
+\subsection{Memorandos}
+
+\begin{itemize}
+\item Em casos de operações contratadas com memorandos específicos, deve-se seguir o que estiver descrito no documento adotado. Caso não constem observações em relação à garantia, devem-se seguir as orientações descritas neste regulamento. Exceto operações que possui exigência de garantia conforme a regra do produto.
+\end{itemize}
+
+\section{Padronização de laudo de avaliação de imóveis}
+
+\begin{itemize}
+\item Visando assertividade e segurança em relação às garantias reais de imóveis, a emissão do laudo deve ser feita por profissionais/empresas conveniadas, bem como regularizados com o aditivo de LGPD, tratando de contratos mais antigos. A exigência mínima para firmar contrato é que tenha registro no CREA/CAU/CRECI (ativo), sendo que, para este último, de preferência tenha também com habilitação CNAI.
+
+\item O laudo de avaliação deverá estar de acordo, com modelos enviados, sendo que, não é obrigatório usar o modelo padrão, porém tem que ter no mínimo as informações que constam nele.
+
+\item Os laudos de avaliação de garantias de imóveis deverão constar o valor de liquidação forçada.
+\end{itemize}
+
+\section{Aprovação cheque e cartão}
+A análise de limites para os produtos cheque e cartão seguirá a metodologia interna desenvolvida pela Cooperativa, descrita no memorando de limites de cartão/cheque Coop 0914.
+
+\section{Prazo da análise de crédito}
+As análises de crédito terão prazo de validade de 6 meses desde que o SCR do associado tenha se mantido igual ou menor que o SCR no momento que foi aprovado o crédito e a documentação deverá estar atualizada. Caso o SCR tenha aumentado acima de 5\% com relação a data de aprovação do crédito deverá ser realizado nova análise de crédito.
+
+\section{Alçadas de renegociações}
+
+\subsection{Alçada recuperação de crédito – Agências}
+A diretoria da Cooperativa determinou as seguintes alçadas de renegociação para as agências, somente quando os critérios elencados a seguir forem cumpridos em totalidade:
+
+\begin{itemize}
+\item Comprometimento total do associado ≤ R\$ 60.000,00;
+\item Entrada mínima de 40\%;
+\item Prazo máximo de 60 meses;
+\item Taxa fixa mensal condicionada a entrada conforme memorando atual;
+\end{itemize}
+
+\subsection{Alçada Recuperação de Crédito – Assessoria}
+A assessoria de recuperação de crédito possui as seguintes alçadas para deferimento de renegociações e repactuações:
+
+\begin{itemize}
+\item Valores até R\$ 200.000,00 de comprometimento total.
+\item 100\% de estornos de juros e multa desde que o valor principal seja corrigido ao mínimo pelo CDI.
+\item Entrada mínima de acordo com o memorando de taxas atual.
+\item Baixa de capital social limitada à R\$ 10.000,00, desde que culmine com a liquidação integral do débito e encerramento imediato da conta/relacionamento;
+\item Estorno de IOF de negociação à vista geradas dentro da PRC limitado à R\$ 500,00;
+\end{itemize}
+
+* A assessoria de recuperação de crédito não possui alçada para estornos em situações que não possuam vínculo com renegociações. Exemplo: tarifas provisionadas, AD motivado por ações massificadas e convênios diversos.
+
+\section{CONSIDERAÇÕES FINAIS}
+
+Este regulamento interno de crédito da Sicredi Celeiro Centro Oeste estabelece as diretrizes para análise, aprovação e gestão de operações de crédito, visando mitigar riscos e garantir a segurança das operações. As regras aqui estabelecidas devem ser rigorosamente seguidas por todos os envolvidos no processo de concessão de crédito, podendo ser atualizadas conforme necessidade e mediante aprovação das alçadas competentes.
+
+\end{document}
